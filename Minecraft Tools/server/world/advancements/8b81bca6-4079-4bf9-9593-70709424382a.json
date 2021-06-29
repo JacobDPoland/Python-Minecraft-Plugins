@@ -1,0 +1,54 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-06-27 22:15:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-06-27 22:15:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-06-27 22:15:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-06-27 22:15:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-06-27 22:15:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-06-27 22:15:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-06-21 16:07:21 -0500",
+      "minecraft:beach": "2021-06-27 22:21:24 -0500",
+      "minecraft:wooded_hills": "2021-06-21 16:07:37 -0500",
+      "minecraft:plains": "2021-06-27 22:22:34 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2021-06-21 16:07:34 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 2580
+}
