@@ -1,0 +1,446 @@
+[20:24:30] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[20:24:31] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[20:24:32] [Worker-Main-5/INFO]: Loaded 7 recipes
+[20:24:42] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[20:24:42] [Server thread/INFO]: Loading properties
+[20:24:46] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-2740d5a-890130b (MC: 1.16.3) (Implementing API version 1.16.3-R0.1-SNAPSHOT)
+[20:24:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:24:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:24:46] [Server thread/INFO]: Debug logging is disabled
+[20:24:46] [Server thread/INFO]: Default game type: CREATIVE
+[20:24:46] [Server thread/INFO]: Generating keypair
+[20:24:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:24:46] [Server thread/INFO]: Using default channel type
+[20:24:59] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20:25:04] [Server thread/WARN]: Legacy plugin SetSpawn v3.4 does not specify an api-version.
+[20:25:04] [Server thread/WARN]: Legacy plugin RaspberryJuice v1.12.1 does not specify an api-version.
+[20:25:04] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v3.4
+[20:25:04] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[20:25:04] [Server thread/INFO]: Preparing level "world"
+[20:25:04] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:25:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:25:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:25:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:25:04] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:25:04] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:25:04] [Server thread/INFO]: View Distance: 10
+[20:25:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:25:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:25:04] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:25:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:25:04] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:25:04] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:25:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:25:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:25:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:25:04] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:25:04] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:25:04] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:25:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:25:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:25:04] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:25:04] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:25:04] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:25:04] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:25:04] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:25:04] [Server thread/INFO]: Mob Spawn Range: 6
+[20:25:04] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:25:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:25:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:25:04] [Server thread/INFO]: Max TNT Explosions: 100
+[20:25:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:25:05] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[20:25:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:25:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:25:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:25:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:25:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:25:05] [Server thread/INFO]: View Distance: 10
+[20:25:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:25:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:25:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:25:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Mob Spawn Range: 6
+[20:25:05] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:25:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:25:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:25:05] [Server thread/INFO]: Max TNT Explosions: 100
+[20:25:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:25:05] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[20:25:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:25:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:25:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:25:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:25:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:25:05] [Server thread/INFO]: View Distance: 10
+[20:25:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:25:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:25:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:25:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:25:05] [Server thread/INFO]: Mob Spawn Range: 6
+[20:25:05] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:25:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:25:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:25:05] [Server thread/INFO]: Max TNT Explosions: 100
+[20:25:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:25:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:25:06] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:06] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:06] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:06] [Server thread/INFO]: Time elapsed: 1583 ms
+[20:25:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:25:08] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:08] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:08] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:08] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:08] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:09] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[20:25:09] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[20:25:10] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[20:25:10] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[20:25:11] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[20:25:11] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[20:25:12] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[20:25:12] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[20:25:13] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[20:25:13] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[20:25:14] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[20:25:14] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[20:25:15] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[20:25:15] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[20:25:16] [Worker-Main-9/INFO]: Preparing spawn area: 90%
+[20:25:16] [Worker-Main-9/INFO]: Preparing spawn area: 94%
+[20:25:17] [Worker-Main-9/INFO]: Preparing spawn area: 97%
+[20:25:17] [Worker-Main-8/INFO]: Preparing spawn area: 99%
+[20:25:17] [Server thread/INFO]: Time elapsed: 11014 ms
+[20:25:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:25:18] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:18] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:18] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:19] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[20:25:19] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[20:25:20] [Server thread/INFO]: Time elapsed: 2299 ms
+[20:25:20] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v3.4
+[20:25:20] [Server thread/INFO]: [SetSpawn] Enabled!
+[20:25:20] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[20:25:20] [Server thread/INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[20:25:20] [Server thread/INFO]: [RaspberryJuice] Using RELATIVE locations
+[20:25:20] [Server thread/INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[20:25:20] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[20:25:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:25:20] [Server thread/INFO]: Done (15.655s)! For help, type "help"
+[20:25:21] [User Authenticator #1/INFO]: UUID of player TeFlesh42 is 8b81bca6-4079-4bf9-9593-70709424382a
+[20:25:22] [Server thread/INFO]: Welcome TeFlesh42[m
+[20:25:22] [Server thread/INFO]: TeFlesh42[/127.0.0.1:53372] logged in with entity id 71 at ([world]0.5194649116444793, 5.0, 0.6188815546765284)
+[20:25:31] [Server thread/ERROR]: Could not pass event EntityDamageByBlockEvent to SetSpawn v3.4
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:319) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.event.CraftEventFactory.callEvent(CraftEventFactory.java:251) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:857) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:809) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:998) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.damageEntity0(EntityLiving.java:1755) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityHuman.damageEntity0(EntityHuman.java:828) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.damageEntity(EntityLiving.java:1139) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityHuman.damageEntity(EntityHuman.java:745) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityPlayer.damageEntity(EntityPlayer.java:716) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.am(EntityLiving.java:1924) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.Entity.entityBaseTick(Entity.java:419) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.entityBaseTick(EntityLiving.java:262) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.Entity.tick(Entity.java:363) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.tick(EntityLiving.java:2349) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityHuman.tick(EntityHuman.java:153) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityPlayer.playerTick(EntityPlayer.java:443) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.PlayerConnection.tick(PlayerConnection.java:143) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.NetworkManager.a(NetworkManager.java:223) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.ServerConnection.c(ServerConnection.java:130) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.b(MinecraftServer.java:1126) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.DedicatedServer.b(DedicatedServer.java:349) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.a(MinecraftServer.java:1007) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:846) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.IllegalArgumentException: Name cannot be null
+	at org.apache.commons.lang.Validate.notNull(Validate.java:192) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.getWorld(CraftServer.java:1130) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at Events.OnVoidDamage.onDamage(OnVoidDamage.java:29) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_291]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_291]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_291]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_291]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:315) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	... 28 more
+[20:25:31] [Server thread/ERROR]: Could not pass event EntityDamageByBlockEvent to SetSpawn v3.4
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:319) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.event.CraftEventFactory.callEvent(CraftEventFactory.java:251) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:857) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:809) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:998) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.damageEntity0(EntityLiving.java:1755) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityHuman.damageEntity0(EntityHuman.java:828) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.damageEntity(EntityLiving.java:1139) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityHuman.damageEntity(EntityHuman.java:745) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityPlayer.damageEntity(EntityPlayer.java:716) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.am(EntityLiving.java:1924) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.Entity.entityBaseTick(Entity.java:419) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.entityBaseTick(EntityLiving.java:262) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.Entity.tick(Entity.java:363) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.tick(EntityLiving.java:2349) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityHuman.tick(EntityHuman.java:153) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityPlayer.playerTick(EntityPlayer.java:443) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.PlayerConnection.tick(PlayerConnection.java:143) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.NetworkManager.a(NetworkManager.java:223) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.ServerConnection.c(ServerConnection.java:130) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.b(MinecraftServer.java:1126) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.DedicatedServer.b(DedicatedServer.java:349) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.a(MinecraftServer.java:1007) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:846) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.IllegalArgumentException: Name cannot be null
+	at org.apache.commons.lang.Validate.notNull(Validate.java:192) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.getWorld(CraftServer.java:1130) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at Events.OnVoidDamage.onDamage(OnVoidDamage.java:29) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_291]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_291]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_291]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_291]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:315) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	... 28 more
+[20:25:32] [Server thread/ERROR]: Could not pass event EntityDamageByBlockEvent to SetSpawn v3.4
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:319) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.event.CraftEventFactory.callEvent(CraftEventFactory.java:251) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:857) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:809) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:998) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.damageEntity0(EntityLiving.java:1755) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityHuman.damageEntity0(EntityHuman.java:828) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.damageEntity(EntityLiving.java:1139) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityHuman.damageEntity(EntityHuman.java:745) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityPlayer.damageEntity(EntityPlayer.java:716) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.am(EntityLiving.java:1924) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.Entity.entityBaseTick(Entity.java:419) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.entityBaseTick(EntityLiving.java:262) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.Entity.tick(Entity.java:363) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.tick(EntityLiving.java:2349) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityHuman.tick(EntityHuman.java:153) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityPlayer.playerTick(EntityPlayer.java:443) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.PlayerConnection.tick(PlayerConnection.java:143) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.NetworkManager.a(NetworkManager.java:223) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.ServerConnection.c(ServerConnection.java:130) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.b(MinecraftServer.java:1126) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.DedicatedServer.b(DedicatedServer.java:349) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.a(MinecraftServer.java:1007) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:846) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.IllegalArgumentException: Name cannot be null
+	at org.apache.commons.lang.Validate.notNull(Validate.java:192) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.getWorld(CraftServer.java:1130) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at Events.OnVoidDamage.onDamage(OnVoidDamage.java:29) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_291]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_291]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_291]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_291]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:315) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	... 28 more
+[20:25:32] [Server thread/ERROR]: Could not pass event EntityDamageByBlockEvent to SetSpawn v3.4
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:319) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.event.CraftEventFactory.callEvent(CraftEventFactory.java:251) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:857) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:809) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:998) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.damageEntity0(EntityLiving.java:1755) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityHuman.damageEntity0(EntityHuman.java:828) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.damageEntity(EntityLiving.java:1139) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityHuman.damageEntity(EntityHuman.java:745) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityPlayer.damageEntity(EntityPlayer.java:716) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.am(EntityLiving.java:1924) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.Entity.entityBaseTick(Entity.java:419) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.entityBaseTick(EntityLiving.java:262) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.Entity.tick(Entity.java:363) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.tick(EntityLiving.java:2349) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityHuman.tick(EntityHuman.java:153) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityPlayer.playerTick(EntityPlayer.java:443) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.PlayerConnection.tick(PlayerConnection.java:143) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.NetworkManager.a(NetworkManager.java:223) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.ServerConnection.c(ServerConnection.java:130) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.b(MinecraftServer.java:1126) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.DedicatedServer.b(DedicatedServer.java:349) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.a(MinecraftServer.java:1007) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:846) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.IllegalArgumentException: Name cannot be null
+	at org.apache.commons.lang.Validate.notNull(Validate.java:192) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.getWorld(CraftServer.java:1130) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at Events.OnVoidDamage.onDamage(OnVoidDamage.java:29) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_291]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_291]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_291]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_291]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:315) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	... 28 more
+[20:25:33] [Server thread/ERROR]: Could not pass event EntityDamageByBlockEvent to SetSpawn v3.4
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:319) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.event.CraftEventFactory.callEvent(CraftEventFactory.java:251) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:857) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:809) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:998) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.damageEntity0(EntityLiving.java:1755) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityHuman.damageEntity0(EntityHuman.java:828) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.damageEntity(EntityLiving.java:1139) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityHuman.damageEntity(EntityHuman.java:745) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityPlayer.damageEntity(EntityPlayer.java:716) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.am(EntityLiving.java:1924) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.Entity.entityBaseTick(Entity.java:419) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.entityBaseTick(EntityLiving.java:262) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.Entity.tick(Entity.java:363) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityLiving.tick(EntityLiving.java:2349) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityHuman.tick(EntityHuman.java:153) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.EntityPlayer.playerTick(EntityPlayer.java:443) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.PlayerConnection.tick(PlayerConnection.java:143) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.NetworkManager.a(NetworkManager.java:223) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.ServerConnection.c(ServerConnection.java:130) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.b(MinecraftServer.java:1126) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.DedicatedServer.b(DedicatedServer.java:349) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.a(MinecraftServer.java:1007) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:846) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.IllegalArgumentException: Name cannot be null
+	at org.apache.commons.lang.Validate.notNull(Validate.java:192) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.getWorld(CraftServer.java:1130) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at Events.OnVoidDamage.onDamage(OnVoidDamage.java:29) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_291]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_291]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_291]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_291]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:315) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	... 28 more
+[20:25:33] [Server thread/INFO]: TeFlesh42 fell out of the world
+[20:25:34] [Server thread/WARN]: [SetSpawn] Task #3 for SetSpawn v3.4 generated an exception
+java.lang.IllegalArgumentException: Name cannot be null
+	at org.apache.commons.lang.Validate.notNull(Validate.java:192) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.getWorld(CraftServer.java:1130) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at Events.OnRespawn$1.run(OnRespawn.java:43) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R2.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at org.bukkit.craftbukkit.v1_16_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:400) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.b(MinecraftServer.java:1059) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.DedicatedServer.b(DedicatedServer.java:349) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.a(MinecraftServer.java:1007) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:846) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.3.jar:git-Spigot-2740d5a-890130b]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+[20:26:11] [Thread-14/INFO]: [RaspberryJuice] Starting input thread
+[20:26:11] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53387.
+[20:26:11] [Thread-15/INFO]: [RaspberryJuice] Starting output thread!
+[20:26:11] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 13355 to next tick
+[20:26:11] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 4621 to next tick
+[20:26:15] [Async Chat Thread - #0/INFO]: <TeFlesh42> !reset[m
+[20:26:21] [Server thread/INFO]: /time set day[m
+[20:26:21] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 6305 to next tick
+[20:26:43] [Async Chat Thread - #0/INFO]: <TeFlesh42> !3x+4[m
+[20:26:47] [Async Chat Thread - #0/INFO]: <TeFlesh42> !reset[m
+[20:27:41] [Async Chat Thread - #0/INFO]: <TeFlesh42> !2x-3[m
+[20:27:50] [Async Chat Thread - #0/INFO]: <TeFlesh42> !-5x+20[m
+[20:28:04] [Async Chat Thread - #0/INFO]: <TeFlesh42> !5x+20[m
+[20:28:10] [Async Chat Thread - #0/INFO]: <TeFlesh42> !-5x+20[m
+[20:28:37] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53387.
+[20:28:38] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:63490.
+[20:28:38] [Thread-20/INFO]: [RaspberryJuice] Starting output thread!
+[20:28:38] [Thread-19/INFO]: [RaspberryJuice] Starting input thread
+[20:28:44] [Server thread/INFO]: /time set day[m
+[20:28:46] [Async Chat Thread - #0/INFO]: <TeFlesh42> !-5x+20[m
+[20:32:06] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:63490.
+[20:32:07] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58059.
+[20:32:07] [Thread-25/INFO]: [RaspberryJuice] Starting input thread
+[20:32:07] [Thread-26/INFO]: [RaspberryJuice] Starting output thread!
+[20:32:16] [Async Chat Thread - #1/INFO]: <TeFlesh42> !-5x+20[m
+[20:32:35] [Async Chat Thread - #1/INFO]: <TeFlesh42> !.2x+20[m
+[20:32:35] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58059.
+[20:34:52] [Async Chat Thread - #2/INFO]: <TeFlesh42> !reset[m
+[20:35:07] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61616.
+[20:35:07] [Thread-31/INFO]: [RaspberryJuice] Starting output thread!
+[20:35:07] [Thread-30/INFO]: [RaspberryJuice] Starting input thread
+[20:35:10] [Async Chat Thread - #2/INFO]: <TeFlesh42> !reset[m
+[20:35:13] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 5987 to next tick
+[20:36:38] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61616.
+[20:36:39] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61627.
+[20:36:39] [Thread-37/INFO]: [RaspberryJuice] Starting input thread
+[20:36:39] [Thread-38/INFO]: [RaspberryJuice] Starting output thread!
+[20:36:55] [Async Chat Thread - #3/INFO]: <TeFlesh42> !-5x+20[m
+[20:37:25] [Async Chat Thread - #3/INFO]: <TeFlesh42> !stop[m
+[20:37:31] [Thread-37/INFO]: [RaspberryJuice] Connection reset
+[20:38:05] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61642.
+[20:38:05] [Thread-40/INFO]: [RaspberryJuice] Starting output thread!
+[20:38:05] [Thread-39/INFO]: [RaspberryJuice] Starting input thread
+[20:38:12] [Async Chat Thread - #3/INFO]: <TeFlesh42> !-5x+20[m
+[20:38:12] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61642.
+[20:38:45] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:59477.
+[20:38:45] [Thread-44/INFO]: [RaspberryJuice] Starting input thread
+[20:38:45] [Thread-45/INFO]: [RaspberryJuice] Starting output thread!
+[20:38:52] [Async Chat Thread - #3/INFO]: <TeFlesh42> !-5x+20[m
+[20:38:53] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:59477.
+[20:39:20] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:59487.
+[20:39:20] [Thread-47/INFO]: [RaspberryJuice] Starting output thread!
+[20:39:20] [Thread-46/INFO]: [RaspberryJuice] Starting input thread
+[20:39:35] [Async Chat Thread - #3/INFO]: <TeFlesh42> !-5x+20[m
+[20:39:35] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:59487.
+[20:40:28] [Thread-13/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51746.
+[20:40:28] [Thread-50/INFO]: [RaspberryJuice] Starting output thread!
+[20:40:28] [Thread-49/INFO]: [RaspberryJuice] Starting input thread
+[20:40:38] [Async Chat Thread - #4/INFO]: <TeFlesh42> !-5x+20[m
+[20:40:45] [Async Chat Thread - #4/INFO]: <TeFlesh42> !.2x+20[m
+[20:40:45] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51746.
+[20:41:13] [Server thread/INFO]: TeFlesh42 lost connection: Disconnected
+[20:41:13] [Server thread/INFO]: TeFlesh42 left the game
